@@ -1,1 +1,1 @@
-# MLFlow-Keras (Communit Edition)
+# MLFlow-Keras (Community Edition)
